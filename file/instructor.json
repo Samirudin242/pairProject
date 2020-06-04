@@ -1,0 +1,27 @@
+[
+    {
+        "first_name" : "Kevin",
+        "last_name" : "Aulia",
+        "field" : "Matematika",
+        "CourseId" : 1
+    },
+    {
+        "first_name" : "Rangga",
+        "last_name" : "Dheswara",
+        "field" : "Biologi",
+        "CourseId" : 2
+    },
+    {
+        "first_name" : "Indah",
+        "last_name" : "Lesmana",
+        "field" : "Kimia",
+        "CourseId" : 1
+    },
+    {
+        "first_name" : "Niki",
+        "last_name" : "Permata",
+        "field" : "Fisika",
+        "CourseId" : 2
+    }
+    
+]

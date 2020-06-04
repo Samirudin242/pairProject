@@ -1,0 +1,12 @@
+[
+    {
+        "name" : "Ruang Guru",
+        "location" : "Jakarta",
+        "LeaderId" : 1
+    },
+    {
+        "name" : "Zenius",
+        "location" : "Bandung",
+        "LeaderId" : 2
+    }
+]
